@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDFMerge", "PDFMerge\PDFMerge.csproj", "{553357C0-DAA6-4AE6-A59A-F00445D970AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Build|Any CPU = Build|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Build|Any CPU.ActiveCfg = Release|Any CPU
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Build|Any CPU.Build.0 = Release|Any CPU
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553357C0-DAA6-4AE6-A59A-F00445D970AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7620407A-52F5-4C39-8D22-16B5C4E78845}
+	EndGlobalSection
+EndGlobal
