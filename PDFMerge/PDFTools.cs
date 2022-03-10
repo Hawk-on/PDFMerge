@@ -9,7 +9,7 @@ using PdfSharp.Pdf.IO;
 
 namespace PDFMerge
 {
-    public static class PythonContainer
+    public static class PDFTools
     {
         public static void MergePDFs(string sourcePath, string? targetPath = null)
         {

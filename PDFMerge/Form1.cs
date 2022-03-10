@@ -30,7 +30,7 @@ namespace PDFMerge
         {
             try
             {
-                PythonContainer.MergePDFs(sourceTextBox.Text, targetTextBox.Text);
+                PDFTools.MergePDFs(sourceTextBox.Text, targetTextBox.Text);
             } 
             catch (Exception ex)
             {
